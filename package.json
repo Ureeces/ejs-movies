@@ -1,0 +1,29 @@
+{
+  "name": "ejs-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ureeces/ejs-movies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ureeces/ejs-movies/issues"
+  },
+  "homepage": "https://github.com/Ureeces/ejs-movies#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
